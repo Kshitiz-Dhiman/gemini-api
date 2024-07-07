@@ -25,7 +25,7 @@ function ChatUI() {
 
 return (
     <div className="bg-[#1e1e1e] m-auto h-[90%] w-[30%] relative rounded-[20px]">
-        <h1 className="p-7 font-bold text-2xl">SHAWTY😊
+        <h1 className="p-7 font-bold text-2xl">lite⚡
         </h1>
         
         <hr className="opacity-[.4]" />
